@@ -22,9 +22,11 @@ I am an associate professor at the [university of Grenoble Alpes](https://www.un
 - [Google Scholar](https://scholar.google.com/citations?user=gbPKVn4AAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0001-6781-2079)
 
-## Presentations to download
+## Selected Presentations to download
 
-- [Measuring scrambling and topological invariants via randomized measurements](Talks/20190218Vermersch_SolvayConference.pdf), Solvay workshop on quantum simulation, Brussels (2019)
+- [Measuring scrambling and topological invariants via randomized measurements](Talks/20190218Vermersch_SolvayConference.pdf), Solvay workshop on quantum simulation, Brussels, 2019
+- [Probing Quantum matter via randomized measurements](Talks/20190226Vermersch_StateKeyLaboratory_PekingUniversity_USTCTalk1.pdf, Seminars at Shanxi and Shanghai university (USTC), 2019.
+- [Quantum simulation and optimization with hot quantum networks](Talks/20190304Vermersch_USTCTalk2.pdf),  Seminars at Shanxi and Shanghai university (USTC), 2019.
 
 ## CV
 - **2017-2019** Senior scientist at the university of Innsbruck, group of Peter Zoller
