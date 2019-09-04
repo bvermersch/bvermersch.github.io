@@ -1,3 +1,11 @@
+## My personal academic website
+
+Research interests
+CV
+Publications
+Recent Talks
+Google Scholar
+
 ## Welcome to GitHub Pages
 Oh yeah
 You can use the [editor on GitHub](https://github.com/bvermersch/bvermersch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
