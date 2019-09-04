@@ -1,12 +1,12 @@
 ## My personal academic website
 
-Research interests
-CV
-Publications
-Recent Talks
-Google Scholar
+[Research interests](#research)
+[CV] 
+[Publications] 
+[Recent Talks]
 
-## Welcome to GitHub Pages
+## <a name="research"> </a> Research interests
+
 Oh yeah
 You can use the [editor on GitHub](https://github.com/bvermersch/bvermersch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
