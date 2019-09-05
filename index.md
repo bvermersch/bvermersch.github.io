@@ -1,7 +1,7 @@
 ## My personal academic website
 Contact: benoit.vermersch (at) lpmmc.cnrs.fr
 
-I am an associate professor at the [university of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), and member of the [LPMMC](https://lpmmc.cnrs.fr/)
+I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), and member of the [LPMMC](https://lpmmc.cnrs.fr/)
 
 [Research interests](#research)
 [Publications](#publications)
@@ -11,10 +11,12 @@ I am an associate professor at the [university of Grenoble Alpes](https://www.un
 
 ## <a name="research"> </a> Research interests
 
+*(to be extended..)*
+
 1. **Synthetic quantum systems**: cold atoms, trapped ions, superconducting qubits
 2. **Measurement protocols**: Entanglement and related quantities
-3. **Quantum Light-matter interfaces**
-4. **Tensor-network numerical methods**
+3. **Light-matter interfaces**: Quantum networks, Quantum State transfer
+4. **Tensor-network numerical methods**: Matrix-Product-States and DMRG,TEBD related algorithms.
 
 ## <a name="publications"> </a> Publications
 
@@ -25,7 +27,7 @@ I am an associate professor at the [university of Grenoble Alpes](https://www.un
 ## Selected Presentations to download
 
 - [Measuring scrambling and topological invariants via randomized measurements](Talks/20190218Vermersch_SolvayConference.pdf), Solvay workshop on quantum simulation, Brussels, 2019
-- [Probing Quantum matter via randomized measurements](Talks/20190226Vermersch_StateKeyLaboratory_PekingUniversity_USTCTalk1.pdf, Seminars at Shanxi and Shanghai university (USTC), 2019.
+- [Probing Quantum matter via randomized measurements](Talks/20190226Vermersch_StateKeyLaboratory_PekingUniversity_USTCTalk1.pdf), Seminars at Shanxi and Shanghai university (USTC), 2019.
 - [Quantum simulation and optimization with hot quantum networks](Talks/20190304Vermersch_USTCTalk2.pdf),  Seminars at Shanxi and Shanghai university (USTC), 2019.
 
 ## CV
