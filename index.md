@@ -2,14 +2,13 @@
 - [Research interests](#research)
 - [Publications](#publications)
 - [Recent Talks](#talks)
-- [CV](#cv)]
+- [CV](#cv)
+- Python Scripts (coming soon)
 
 ##  <a name="about "> </a> About me
 Contact: benoit.vermersch (at) lpmmc.cnrs.fr
 
 I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), and member of the [LPMMC](https://lpmmc.cnrs.fr/)
-
-
 
 ## <a name="research"> </a> Research interests
 
@@ -32,7 +31,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 - [Probing Quantum matter via randomized measurements](Talks/20190226Vermersch_StateKeyLaboratory_PekingUniversity_USTCTalk1.pdf), Seminars at Shanxi and Shanghai university (USTC), 2019.
 - [Quantum simulation and optimization with hot quantum networks](Talks/20190304Vermersch_USTCTalk2.pdf),  Seminars at Shanxi and Shanghai university (USTC), 2019.
 
-## CV
+## <a name="cv"> </a> Short CV
 - **2017-2019** Senior scientist at the university of Innsbruck, group of Peter Zoller
 - **2013-2017** Postdoctoral fellow at the university of Innsbruck, group of Peter Zoller
 - **2010-2013** PhD student under the supervision of Jean-Claude Garreau, university of Lille
