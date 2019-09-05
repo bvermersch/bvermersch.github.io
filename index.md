@@ -1,4 +1,10 @@
-## My personal academic website
+- [About me](#about)
+- [Research interests](#research)
+- [Publications](#publications)
+- [Recent Talks](#talks)
+- [CV](#cv)]
+
+##  <a name="about "> </a> About me
 Contact: benoit.vermersch (at) lpmmc.cnrs.fr
 
 I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), and member of the [LPMMC](https://lpmmc.cnrs.fr/)
