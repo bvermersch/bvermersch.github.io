@@ -32,11 +32,12 @@ Entanglement-related quantities, Out-of-time-ordered correlators, Topological in
 ## Selected presentations available for download
 
 - [Measuring scrambling and topological invariants via randomized measurements](Talks/20190218Vermersch_SolvayConference.pdf), Solvay workshop on quantum simulation, Brussels, 2019
-- [Probing Quantum matter via randomized measurements](Talks/20190226Vermersch_StateKeyLaboratory_PekingUniversity_USTCTalk1.pdf), Seminars at Shanxi and Shanghai University (USTC), 2019.
-- [Quantum simulation and optimization with hot quantum networks](Talks/20190304Vermersch_USTCTalk2.pdf),  Seminars at Shanxi and Shanghai University (USTC), 2019.
+- [Probing quantum matter via randomized measurements](Talks/20190226Vermersch_StateKeyLaboratory_PekingUniversity_USTCTalk1.pdf), Seminars at Shanxi and Shanghai University (USTC), 2019.
+- [Quantum simulation and optimization with hot quantum networks](Talks/20190304Vermersch_USTCTalk2.pdf),  Seminars at Shanghai University (USTC), 2019.
 
 ## <a name="cv"> </a> Short CV
-- **2017-2019** Senior scientist at the University of Innsbruck, group of Peter Zoller
-- **2013-2017** Postdoctoral fellow at the University of Innsbruck, group of Peter Zoller
-- **2010-2013** PhD student under the supervision of Jean-Claude Garreau, University of Lille
-- **2006-2010** École Polytechnique
+- **2019-** Associate professor, University of Grenoble.
+- **2017-2019** Senior scientist at the University of Innsbruck, group of Peter Zoller.
+- **2013-2017** Postdoctoral fellow at the University of Innsbruck, group of Peter Zoller.
+- **2010-2013** PhD student under the supervision of Jean-Claude Garreau, University of Lille.
+- **2006-2010** École Polytechnique.
