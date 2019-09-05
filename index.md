@@ -5,7 +5,7 @@
 - [CV](#cv)
 - Python Scripts (coming soon)
 
-##  <a name="about "> </a> About me
+##  <a name="about"> </a> About me
 Contact: benoit.vermersch (at) lpmmc.cnrs.fr
 
 I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), and member of the [LPMMC](https://lpmmc.cnrs.fr/)
@@ -29,7 +29,7 @@ Entanglement-related quantities, Out-of-time-ordered correlators, Topological in
 - [Google Scholar](https://scholar.google.com/citations?user=gbPKVn4AAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0001-6781-2079)
 
-## Selected presentations available for download
+## <a name="talks"> </a> Selected presentations available for download
 
 - [Measuring scrambling and topological invariants via randomized measurements](Talks/20190218Vermersch_SolvayConference.pdf), Solvay workshop on quantum simulation, Brussels, 2019
 - [Probing quantum matter via randomized measurements](Talks/20190226Vermersch_StateKeyLaboratory_PekingUniversity_USTCTalk1.pdf), Seminars at Shanxi and Shanghai University (USTC), 2019.
