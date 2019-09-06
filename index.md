@@ -7,7 +7,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 *(to be extended..)*
 
-1. **Synthetic quantum systems**: cold atoms, trapped ions, superconducting qubits.
+1. **Synthetic quantum systems and quantum technologies**: cold atoms, trapped ions, superconducting qubits.
 
 2. **Measurement protocols for many-body quantum systems**: 
 Entanglement-related quantities, Out-of-time-ordered correlators, Topological invariants.
