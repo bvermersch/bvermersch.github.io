@@ -1,10 +1,3 @@
-- [About me](#about)
-- [Research interests](#research)
-- [Publications](#publications)
-- [Recent Talks](#talks)
-- [CV](#cv)
-- Python Scripts (coming soon)
-
 ##  <a name="about"> </a> About me
 Contact: benoit.vermersch (at) lpmmc.cnrs.fr
 
@@ -41,3 +34,7 @@ Entanglement-related quantities, Out-of-time-ordered correlators, Topological in
 - **2013-2017** Postdoctoral fellow at the University of Innsbruck, group of Peter Zoller.
 - **2010-2013** PhD student under the supervision of Jean-Claude Garreau, University of Lille.
 - **2006-2010** École Polytechnique.
+
+##  <a name="about"> </a> Python scripts
+*coming soon..*
+
