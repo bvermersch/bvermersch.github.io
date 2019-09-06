@@ -7,10 +7,13 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 *(to be extended..)*
 
-1. **Synthetic quantum systems and quantum technologies**: cold atoms, trapped ions, superconducting qubits.
-- **Measurement protocols for many-body quantum systems**: 
+1. **Synthetic quantum systems and quantum technologies**: with cold atoms, trapped ions, superconducting qubits,...
+- **Measurement protocols** for 
 Entanglement-related quantities, Out-of-time-ordered correlators, Topological invariants.
-- **Light-matter interfaces**: Quantum networks, Quantum State transfer, Waveguide quantum electrodynamics.
+
+Selected publications:
+
+- **Light-matter interfaces**: Quantum networks, quantum State transfer, Waveguide quantum electrodynamics.
 
 4. **Tensor-network numerical methods**: Matrix-Product-States and DMRG,TEBD related algorithms.
 
