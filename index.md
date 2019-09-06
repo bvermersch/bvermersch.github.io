@@ -8,7 +8,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 *(to be extended..)*
 
 1. **Synthetic quantum systems for quantum technologies**
-- Imphttp://lpmmc.grenoble.cnrs.fr/bus-presence.paclementations with cold atoms, trapped ions, superconducting qubits,...
+- Implementations with cold atoms, trapped ions, superconducting qubits,...
 - Measurement protocols for 
 Entanglement-related quantities, Out-of-time-ordered correlators, Topological invariants.
 - *Selected publications*:
