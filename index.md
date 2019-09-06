@@ -12,7 +12,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 - Measurement protocols for 
 Entanglement-related quantities, Out-of-time-ordered correlators, Topological invariants.
 - *Selected publications*:
-- [Nature Physics 14, 827–831 (2018)](https://www.nature.com/articles/s41567-018-0151-7)
+    - [Nature Physics 14, 827–831 (2018)](https://www.nature.com/articles/s41567-018-0151-7)
 
 - **Light-matter interfaces**: Quantum networks, quantum State transfer, Waveguide quantum electrodynamics.
 
