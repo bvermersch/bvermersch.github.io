@@ -7,16 +7,24 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 *(to be extended..)*
 
-1. **Synthetic quantum systems and quantum technologies**
+1. **Synthetic quantum systems for quantum technologies**
 - Implementations with cold atoms, trapped ions, superconducting qubits,...
 - Measurement protocols for 
 Entanglement-related quantities, Out-of-time-ordered correlators, Topological invariants.
 - *Selected publications*:
-    - [Nature Physics 14, 827–831 (2018)](https://www.nature.com/articles/s41567-018-0151-7)
+[Nature Physics 14, 827–831 (2018)](https://www.nature.com/articles/s41567-018-0151-7), 
+[Phys. Rev. Lett. 120, 050406 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.050406), 
+[Science 364, 260-263i (2019)](https://science.sciencemag.org/content/364/6437/260)
 
-- **Light-matter interfaces**: Quantum networks, quantum State transfer, Waveguide quantum electrodynamics.
 
-4. **Tensor-network numerical methods**: Matrix-Product-States and DMRG,TEBD related algorithms.
+2. **Quantum networks**:
+-light-matter interfaces, quantum state transfer protocols, waveguide quantum electrodynamics.
+ - *Selected publications*:
+ [Phys. Rev. Lett. 118, 133601 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.133601), 
+ [Phys. Rev. B 99, 241302(R) (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.241302), 
+ [Phys. Rev. Lett. 122, 093601 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.093601)
+
+3. **Tensor-network numerical methods**: Matrix-Product-States and DMRG,TEBD related algorithms.
 
 ## <a name="publications"> </a> Publications
 
@@ -38,5 +46,5 @@ Entanglement-related quantities, Out-of-time-ordered correlators, Topological in
 - **2006-2010** École Polytechnique.
 
 ##  <a name="about"> </a> Python scripts
-*coming soon..*
+-*more coming soon..*
 
