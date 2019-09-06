@@ -10,16 +10,16 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 1. **Synthetic quantum systems for quantum technologies**
 - Implementations with cold atoms, trapped ions, superconducting qubits,...
 - Measurement protocols for 
-Entanglement-related quantities, Out-of-time-ordered correlators, Topological invariants.
+Entanglement-related quantities, out-of-time ordered correlators, topological invariants.
 - *Selected publications*:
 [NP 14, 827–831 (2018)](https://www.nature.com/articles/s41567-018-0151-7), 
 [PRL 120, 050406 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.050406), 
-[Science 364, 260-263i (2019)](https://science.sciencemag.org/content/364/6437/260)
+[Science 364, 260-263 (2019)](https://science.sciencemag.org/content/364/6437/260)
 
 
 2. **Quantum networks**:
--light-matter interfaces, quantum state transfer protocols, waveguide quantum electrodynamics.
- - *Selected publications*:
+- light-matter interfaces, quantum state transfer protocols, waveguide quantum electrodynamics.
+- *Selected publications*:
  [PRL 118, 133601 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.133601), 
  [PRB 99, 241302(R) (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.241302), 
  [PRL 122, 093601 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.093601)
@@ -46,5 +46,5 @@ Entanglement-related quantities, Out-of-time-ordered correlators, Topological in
 - **2006-2010** École Polytechnique.
 
 ##  <a name="about"> </a> Python scripts
--*more coming soon..*
+-*coming soon..*
 
