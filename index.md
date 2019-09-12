@@ -11,10 +11,10 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 1. **Synthetic quantum systems for quantum technologies**
 
 <img src="Pics/Brydges2019.jpg" alt="drawing" width="300"/> <br/>*Measurement of entanglement entropies in a trapped-ion quantum simulator (Science 364, 260-263 (2019))* 
-- Implementations with cold atoms, trapped ions, superconducting qubits,...
-- Measurement protocols for 
+⋅⋅- Implementations with cold atoms, trapped ions, superconducting qubits,...
+⋅⋅- Measurement protocols for 
 Entanglement-related quantities, out-of-time ordered correlators, topological invariants.
-- *Selected publications*:
+⋅⋅- *Selected publications*:
 [NP 14, 827–831 (2018)](https://www.nature.com/articles/s41567-018-0151-7), 
 [PRL 120, 050406 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.050406), 
 [Science 364, 260-263 (2019)](https://science.sciencemag.org/content/364/6437/260)
@@ -34,7 +34,7 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 
  <img src="Pics/Schuetz2019_2.jpg" alt="drawing" width="200"/>  <br/>*Matrix-Product-state simulation of an entangling gate mediated by a multimode waveguide [PRB 99, 241302(R) (2019)]*
  
- ## <a name="publications"> </a> Publications
+## <a name="publications"> </a> Publications
 
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Vermersch%2C+B)
 - [Google Scholar](https://scholar.google.com/citations?user=gbPKVn4AAAAJ&hl=en)
