@@ -9,7 +9,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 *(to be extended..)*
 
 1. **Synthetic quantum systems for quantum technologies**
-- * Measurement of R\'enyi entropies in a trapped-ion quantum simulator (Science 364, 260-263 (2019))* <img src="Pics/Brydges2019.jpg" alt="drawing" width="400"/>
+- *Measurement of R\'enyi entropies in a trapped-ion quantum simulator (Science 364, 260-263 (2019))* <img src="Pics/Brydges2019.jpg" alt="drawing" width="400"/>
 - Implementations with cold atoms, trapped ions, superconducting qubits,...
 - Measurement protocols for 
 Entanglement-related quantities, out-of-time ordered correlators, topological invariants.
@@ -20,6 +20,7 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 
 
 2. **Quantum networks**:
+- *Quantum simulation and optimization in a hot quantum network [PRB 99, 241302(R) (2019)]* <img src="Pics/Schuetz019.jpg" alt="drawing" width="400"/>
 - Light-matter interfaces, quantum state transfer protocols, waveguide quantum electrodynamics.
 - *Selected publications*:
  [PRL 118, 133601 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.133601), 
@@ -27,6 +28,7 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
  [PRL 122, 093601 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.093601)
 
 3. **Tensor-network numerical methods**: Matrix-Product-States and DMRG,TEBD related algorithms.
+- *Matrix-Product-state simulation of an entangling gate mediated by a multimode waveguide [PRB 99, 241302(R) (2019)]* <img src="Pics/Schuetz019_2.jpg" alt="drawing" width="400"/>
 
 ## <a name="publications"> </a> Publications
 
