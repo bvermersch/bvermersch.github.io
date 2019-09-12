@@ -14,7 +14,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 - Implementations with cold atoms, trapped ions, superconducting qubits,...
 - Measurement protocols for 
 Entanglement-related quantities, out-of-time ordered correlators, topological invariants.
-⋅⋅- *Selected publications*:
+- *Selected publications*:
 [NP 14, 827–831 (2018)](https://www.nature.com/articles/s41567-018-0151-7), 
 [PRL 120, 050406 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.050406), 
 [Science 364, 260-263 (2019)](https://science.sciencemag.org/content/364/6437/260)
