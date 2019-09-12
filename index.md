@@ -32,7 +32,9 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 
 3. **Tensor-network numerical methods**: Matrix-Product-States and DMRG,TEBD related algorithms
 
- <img src="Pics/Schuetz2019_2.jpg" alt="drawing" width="200"/>  <br/>*Matrix-Product-state simulation of an entangling gate mediated by a multimode waveguide [PRB 99, 241302(R) (2019)]* ## <a name="publications"> </a> Publications
+ <img src="Pics/Schuetz2019_2.jpg" alt="drawing" width="200"/>  <br/>*Matrix-Product-state simulation of an entangling gate mediated by a multimode waveguide [PRB 99, 241302(R) (2019)]*
+ 
+ ## <a name="publications"> </a> Publications
 
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Vermersch%2C+B)
 - [Google Scholar](https://scholar.google.com/citations?user=gbPKVn4AAAAJ&hl=en)
