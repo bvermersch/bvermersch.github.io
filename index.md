@@ -1,6 +1,6 @@
 ##  <a name="about"> </a> About me
 Contact: benoit.vermersch (at) lpmmc.cnrs.fr 
-![Pic](Pics/vermersch.jpg "Benoit Vermersch")
+![Pic](Pics/vermersch.jpg "Benoit Vermersch" =50x)
 
 I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), and member of the [LPMMC](https://lpmmc.cnrs.fr/)
 
@@ -9,7 +9,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 *(to be extended..)*
 
 1. **Synthetic quantum systems for quantum technologies**
-- [Brydges2019](Pics/Brydges2019)
+- ![Brydges2019](Pics/Brydges2019)
 - Implementations with cold atoms, trapped ions, superconducting qubits,...
 - Measurement protocols for 
 Entanglement-related quantities, out-of-time ordered correlators, topological invariants.
