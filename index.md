@@ -7,8 +7,6 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 ## <a name="research"> </a> Research interests
 
-*(to be extended..)*
-
 ### 1. Synthetic quantum systems for quantum technologies
 
 <img src="Pics/Brydges2019.jpg" alt="drawing" width="300"/> <br/>*Measurement of entanglement entropies in a trapped-ion quantum simulator (Science 364, 260-263 (2019))* 
