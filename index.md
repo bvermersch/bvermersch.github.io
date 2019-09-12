@@ -1,6 +1,6 @@
 ##  <a name="about"> </a> About me
 <img src="Pics/vermersch.jpg" alt="drawing" width="150"/>
-*Contact: benoit.vermersch (at) lpmmc.cnrs.fr *
+*Contact: benoit.vermersch (at) lpmmc.cnrs.fr*
 
 I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), and member of the [LPMMC](https://lpmmc.cnrs.fr/)
 
