@@ -9,7 +9,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 *(to be extended..)*
 
 1. **Synthetic quantum systems for quantum technologies**
-- <img src="Pics/Brydges2019.pdf" alt="drawing" width="400"/>
+- <img src="Pics/Brydges2019.jpg" alt="drawing" width="400"/>
 - Implementations with cold atoms, trapped ions, superconducting qubits,...
 - Measurement protocols for 
 Entanglement-related quantities, out-of-time ordered correlators, topological invariants.
