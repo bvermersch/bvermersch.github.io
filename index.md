@@ -1,5 +1,6 @@
 ##  <a name="about"> </a> About me
-Contact: benoit.vermersch (at) lpmmc.cnrs.fr
+Contact: benoit.vermersch (at) lpmmc.cnrs.fr 
+![Pic](Pics/vermersch.jpg "Benoit Vermersch")
 
 I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), and member of the [LPMMC](https://lpmmc.cnrs.fr/)
 
@@ -8,6 +9,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 *(to be extended..)*
 
 1. **Synthetic quantum systems for quantum technologies**
+- [Brydges2019](Pics/Brydges2019)
 - Implementations with cold atoms, trapped ions, superconducting qubits,...
 - Measurement protocols for 
 Entanglement-related quantities, out-of-time ordered correlators, topological invariants.
@@ -18,7 +20,7 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 
 
 2. **Quantum networks**:
-- light-matter interfaces, quantum state transfer protocols, waveguide quantum electrodynamics.
+- Light-matter interfaces, quantum state transfer protocols, waveguide quantum electrodynamics.
 - *Selected publications*:
  [PRL 118, 133601 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.133601), 
  [PRB 99, 241302(R) (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.241302), 
