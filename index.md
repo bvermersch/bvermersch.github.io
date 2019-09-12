@@ -9,7 +9,8 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 *(to be extended..)*
 
 1. **Synthetic quantum systems for quantum technologies**
-<img src="Pics/Brydges2019.jpg" alt="drawing" width="400"/> *Measurement of entanglement entropies in a trapped-ion quantum simulator (Science 364, 260-263 (2019))* 
+
+<img src="Pics/Brydges2019.jpg" alt="drawing" width="400"/> </br>*Measurement of entanglement entropies in a trapped-ion quantum simulator (Science 364, 260-263 (2019))* 
 - Implementations with cold atoms, trapped ions, superconducting qubits,...
 - Measurement protocols for 
 Entanglement-related quantities, out-of-time ordered correlators, topological invariants.
@@ -20,7 +21,8 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 
 
 2. **Quantum networks**:
- <img src="Pics/Schuetz2019.jpg" alt="drawing" width="200"/>*Quantum simulation and optimization in a hot quantum network [PRB 99, 241302(R) (2019)]* 
+
+ <img src="Pics/Schuetz2019.jpg" alt="drawing" width="200"/></br>*Quantum simulation and optimization in a hot quantum network [PRB 99, 241302(R) (2019)]* 
 
 - Light-matter interfaces, quantum state transfer protocols, waveguide quantum electrodynamics.
 - *Selected publications*:
@@ -28,8 +30,9 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
  [PRB 99, 241302(R) (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.241302), 
  [PRL 122, 093601 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.093601)
 
-3. **Tensor-network numerical methods**: Matrix-Product-States and DMRG,TEBD related algorithms.
- <img src="Pics/Schuetz2019_2.jpg" alt="drawing" width="400"/>  *Matrix-Product-state simulation of an entangling gate mediated by a multimode waveguide [PRB 99, 241302(R) (2019)]* ## <a name="publications"> </a> Publications
+3. **Tensor-network numerical methods**: Matrix-Product-States and DMRG,TEBD related algorithms
+
+ <img src="Pics/Schuetz2019_2.jpg" alt="drawing" width="400"/>  </br>*Matrix-Product-state simulation of an entangling gate mediated by a multimode waveguide [PRB 99, 241302(R) (2019)]* ## <a name="publications"> </a> Publications
 
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Vermersch%2C+B)
 - [Google Scholar](https://scholar.google.com/citations?user=gbPKVn4AAAAJ&hl=en)
