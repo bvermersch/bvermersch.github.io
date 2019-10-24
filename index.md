@@ -5,6 +5,8 @@
 
 I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), and member of the [LPMMC](https://lpmmc.cnrs.fr/)
 
+[MASTER INTERNSHIP PROPOSAL ON RANDOMIZED MEASUREMENTS (WITH POSSIBLE PHD)](https://lpmmc.cnrs.fr/IMG/pdf/vermersch-rm_2019_2020.pdf)
+
 ## <a name="research"> </a> Research interests
 
 ### 1. Synthetic quantum systems for quantum technologies
