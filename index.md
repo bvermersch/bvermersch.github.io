@@ -3,12 +3,20 @@
 <br/>
 *Contact*: benoit.vermersch (at) lpmmc.cnrs.fr
 
-I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), and member of the [LPMMC](https://lpmmc.cnrs.fr/)
+I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), member of the [LPMMC](https://lpmmc.cnrs.fr/)
 
 ## <a name="highlights"> </a> Latest research highlights
-<img src="Pics/topological_invariants_1800x1080.jpg" alt="drawing" width="300"><br/*>*2020/04/Our paper on measuring many-body topological invariants has been published in Science Advances. 
+
+-<img src="Pics/topological_invariants_1800x1080.jpg" alt="drawing" width="300"><br/>*2020.04: Our paper on measuring many-body topological invariants has been published in Science Advances.*
 [Link to the paper](https://advances.sciencemag.org/content/6/15/eaaz3666)
 [Press release](https://iqoqi.at/en/current/news/730-new-protocol-identifies-fascinating-quantum-states)
+
+-2020.03 Our paper on unidirectional quantum networks with superconducting qubits has been published in NPJ quantum information
+[Link to the paper](https://www.nature.com/articles/s41534-020-0261-9)
+
+-<img src="crosscheck.png" alt="drawing" width="300"><br/>*2020.01: Our paper on cross-platform verification of near-intermediate scale quantum devices has been published in Physical Review Letter.*
+[Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.010504)
+[Viewpoint on Physics by S. Flammia](https://physics.aps.org/articles/v13/3)
 
 ## <a name="research"> </a> Research interests
 
