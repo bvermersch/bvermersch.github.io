@@ -5,7 +5,10 @@
 
 I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), and member of the [LPMMC](https://lpmmc.cnrs.fr/)
 
-[MASTER INTERNSHIP PROPOSAL ON RANDOMIZED MEASUREMENTS (WITH POSSIBLE PHD)](https://lpmmc.cnrs.fr/IMG/pdf/vermersch-rm_2019_2020.pdf)
+## <a name="highlights"> </a> Latest research highlights
+<img src="Pics/topological_invariants_1800x1080.jpg" alt="drawing" width="300"><br/*>*2020/04/Our paper on measuring many-body topological invariants has been published in Science Advances. 
+[Link to the paper](https://advances.sciencemag.org/content/6/15/eaaz3666)
+[Press release](https://iqoqi.at/en/current/news/730-new-protocol-identifies-fascinating-quantum-states)
 
 ## <a name="research"> </a> Research interests
 
