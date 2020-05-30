@@ -9,7 +9,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 -<img src="Pics/topological_invariants_1800x1080.jpg" alt="drawing" width="300"><br/>*2020.04: Our paper on measuring many-body topological invariants has been published in Science Advances.*<br/>
 [Link to the paper](https://advances.sciencemag.org/content/6/15/eaaz3666)|
-[Press release](https://iqoqi.at/en/current/news/730-new-protocol-identifies-fascinating-quantum-states)
+[Press release](https://iqoqi.at/en/current/news/730-new-protocol-identifies-fascinating-quantum-states)|
 [Interview physicsworld](https://physicsworld.com/a/randomized-measurements-reveal-topological-quantum-states/)
 
 -2020.03 Our paper on unidirectional quantum networks with superconducting qubits has been published in NPJ quantum information<br/>
