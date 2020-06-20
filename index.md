@@ -7,7 +7,10 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 ## <a name="highlights"> </a> Latest research highlights
 
--*2020.06: Our paper on emerging two-dimensional gauge theories in Rydberg configurable arrays has been published in Physical Review X.*<br/>
+-*2020.06: Our paper on quantum information scrambling in a trapped-ion quantum simulator with tunable range interactions <br/>
+[Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.240505)
+
+-*2020.06: Our paper on Emerging two-dimensional gauge theories in Rydberg configurable arrays has been published in Physical Review X.*<br/>
 [Link to the paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.021057)
 
 -<img src="Pics/topological_invariants_1800x1080.jpg" alt="drawing" width="300"><br/>*2020.04: Our paper on measuring many-body topological invariants has been published in Science Advances.*<br/>
