@@ -5,7 +5,9 @@
 
 I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), member of the [LPMMC](https://lpmmc.cnrs.fr/)
 
-## <a name="highlights"> </a> Latest research highlights
+## <a name="highlights"> </a> News
+
+-*2020.06: Python scripts to postprocess randomized measurementis performed on quantum devices available on [Github]((https://github.com/bvermersch/RandomMeas). Joint work with Andreas Elben (Innsbruck).
 
 -*2020.06: Our paper on quantum information scrambling in a trapped-ion quantum simulator with tunable range interactions has been published in Physical Review Letters (editor's suggestion)*<br/>
 [Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.240505)
