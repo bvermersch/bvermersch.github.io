@@ -76,6 +76,6 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 - **2010-2013** PhD student under the supervision of Jean-Claude Garreau, University of Lille.
 - **2006-2010** École Polytechnique.
 
-##  <a name="about"> </a> Python scripts
--*coming soon..*
+##  <a name="Python scripts"> </a> Python scripts
+- Numpy scripts to analyze randomized measurements performed on quantum devices: [Github Link](https://github.com/bvermersch/RandomMeas) 
 
