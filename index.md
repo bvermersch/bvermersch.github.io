@@ -20,14 +20,6 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 [Press release](https://iqoqi.at/en/current/news/730-new-protocol-identifies-fascinating-quantum-states)|
 [Interview physicsworld](https://physicsworld.com/a/randomized-measurements-reveal-topological-quantum-states/)
 
--2020.03 Our paper on unidirectional quantum networks with superconducting qubits has been published in NPJ quantum information<br/>
-[Link to the paper](https://www.nature.com/articles/s41534-020-0261-9)
-
--<img src="Pics/crosscheck.jpg" alt="drawing" width="300"><br/>*2020.01: Our paper on cross-platform verification of near-intermediate scale quantum devices has been published in Physical Review Letter.*<br/>
-[Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.010504)|
-[Viewpoint on Physics by S. Flammia](https://physics.aps.org/articles/v13/3)|
-[Online talk by A. Elben](https://youtu.be/HAm93zIRio8)
-
 ## <a name="research"> </a> Research interests
 
 ### 1. Synthetic quantum systems for quantum technologies
@@ -70,6 +62,9 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 - [Measuring scrambling and topological invariants via randomized measurements](Talks/20190218Vermersch_SolvayConference.pdf), Solvay workshop on quantum simulation, Brussels, 2019
 - [Probing quantum matter via randomized measurements](Talks/20190226Vermersch_StateKeyLaboratory_PekingUniversity_USTCTalk1.pdf), Seminars at Shanxi and Shanghai University (USTC), 2019.
 - [Quantum simulation and optimization with hot quantum networks](Talks/20190304Vermersch_USTCTalk2.pdf),  Seminars at Shanghai University (USTC), 2019.
+
+## <a name="Teaching"> </a> Teaching
+- Quantum algorithms (Master's degree university Grenoble Alpes): [Lecture 1: Quantum circuits](Teaching/QO_Lecture1.pdf)
 
 ## <a name="cv"> </a> Short CV
 - **2019-** Associate professor, University of Grenoble.
