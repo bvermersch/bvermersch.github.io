@@ -3,7 +3,7 @@
 <br/>
 *Contact*: benoit.vermersch (at) lpmmc.cnrs.fr
 
-I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), member of the [LPMMC](https://lpmmc.cnrs.fr/)
+I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), member of the [LPMMC](https://lpmmc.cnrs.fr/). I am also researcher at the institute for quantum optics and quantum information [(IQOQI)](http://iqoqi.at/en), in Innsbruck.
 
 ## <a name="highlights"> </a> News
 
@@ -64,7 +64,7 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 - [Quantum simulation and optimization with hot quantum networks](Talks/20190304Vermersch_USTCTalk2.pdf),  Seminars at Shanghai University (USTC), 2019.
 
 ## <a name="Teaching"> </a> Teaching
-- Quantum algorithms (Master's degree university Grenoble Alpes): [Lecture 1: Quantum circuits](Teaching/QO_Lecture1.pdf)
+- Quantum algorithms 2020/2021 (Master's degree university Grenoble Alpes): [Lecture 1: Quantum circuits](Teaching/QO_Lecture1.pdf)
 
 ## <a name="cv"> </a> Short CV
 - **2019-** Associate professor, University of Grenoble.
