@@ -64,8 +64,9 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 - [Quantum simulation and optimization with hot quantum networks](Talks/20190304Vermersch_USTCTalk2.pdf),  Seminars at Shanghai University (USTC), 2019.
 
 ## <a name="Teaching"> </a> Teaching
-- Quantum algorithms 2020/2021 (Master's degree university Grenoble Alpes): [Lecture 1: Quantum circuits](Teaching/QO_Lecture1.pdf)
-[Lecture 2: Quantum algorithms](Teaching/QO_Lecture2.pdf)
+- Quantum algorithms 2020/2021 (Master's degree university Grenoble Alpes): 
+  [Lecture 1: Quantum circuits](Teaching/QO_Lecture1.pdf)
+  [Lecture 2: Quantum algorithms](Teaching/QO_Lecture2.pdf)
 
 ## <a name="cv"> </a> Short CV
 - **2019-** Associate professor, University of Grenoble.
