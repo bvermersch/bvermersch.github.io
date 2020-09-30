@@ -65,8 +65,8 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 
 ## <a name="Teaching"> </a> Teaching
 - Quantum algorithms 2020/2021 (Master's degree university Grenoble Alpes): 
-  [Lecture 1: Quantum circuits](Teaching/QO_Lecture1.pdf)
-  [Lecture 2: Quantum algorithms](Teaching/QO_Lecture2.pdf)
+  * [Lecture 1: Quantum circuits](Teaching/QO_Lecture1.pdf)
+  * [Lecture 2: Quantum algorithms](Teaching/QO_Lecture2.pdf)
 
 ## <a name="cv"> </a> Short CV
 - **2019-** Associate professor, University of Grenoble.
