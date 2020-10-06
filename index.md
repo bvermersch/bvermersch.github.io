@@ -7,9 +7,9 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 ## <a name="highlights"> </a> News
 
--*2020.10: Funding available for a Phd position and a postdoc position. Contact me if you are interested.
+-_**2020.10: Funding available for a Phd position and a postdoc position. Contact me if you are interested.**_
 
--*2020.10: Aniket Rath starts his PhD on randomized measurements at the university Grenoble Alpes, and Piero Naldesi starts his post-doc in Innsbruck.
+-*2020.10: Aniket Rath starts his PhD on randomized measurements at the university Grenoble Alpes, and Piero Naldesi starts his post-doc in Innsbruck.*
 
 -*2020.06: Python scripts to postprocess randomized measurementis performed on quantum devices available on* [Github](https://github.com/bvermersch/RandomMeas). Joint work with Andreas Elben (Innsbruck).
 
