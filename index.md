@@ -7,6 +7,9 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 ## <a name="highlights"> </a> News
 
+-*2020.11: Our paper on mixed-state entanglement from randomized measurements  has been published in Physical Review Letters*<br/>
+[Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.200501)
+
 -_**2020.10: Funding available for a Phd position and a postdoc position. Contact me if you are interested.**_
 
 -*2020.10: Aniket Rath starts his PhD on randomized measurements at the university Grenoble Alpes, and Piero Naldesi starts his post-doc in Innsbruck.*
@@ -71,6 +74,8 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 - Quantum algorithms 2020/2021 (Master's degree university Grenoble Alpes): 
   * [Lecture 1: Quantum circuits](Teaching/QO_Lecture1.pdf)
   * [Lecture 2: Quantum algorithms](Teaching/QO_Lecture2.pdf)
+  * [Lecture 3: Quantum error correction](Teaching/QO_Lecture3.pdf)
+  * [Lecture 4: Quantum optimization - Quantum simulation](Teaching/QO_Lecture4.pdf)
 
 ## <a name="cv"> </a> Short CV
 - **2019-** Associate professor, University of Grenoble.
