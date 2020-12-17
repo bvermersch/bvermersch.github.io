@@ -5,7 +5,7 @@
 
 I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), member of the [LPMMC](https://lpmmc.cnrs.fr/). I am also researcher at the institute for quantum optics and quantum information [(IQOQI)](http://iqoqi.at/en), in Innsbruck.
 
-I thank Agence National Recherche (ANR-JCJC QRand), the Austrian Science Fundation (FWF-P32597N), and the LANEF and Nano-Science fundation, for financial support.
+I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science Fundation (FWF-P32597N), and the LANEF and Nano-Science fundation, for financial support.
 
 ## <a name="highlights"> </a> News
 
