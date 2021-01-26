@@ -71,6 +71,7 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 - [Measuring scrambling and topological invariants via randomized measurements](Talks/20190218Vermersch_SolvayConference.pdf), Solvay workshop on quantum simulation, Brussels, 2019
 - [Probing quantum matter via randomized measurements](Talks/20190226Vermersch_StateKeyLaboratory_PekingUniversity_USTCTalk1.pdf), Seminars at Shanxi and Shanghai University (USTC), 2019.
 - [Quantum simulation and optimization with hot quantum networks](Talks/20190304Vermersch_USTCTalk2.pdf),  Seminars at Shanghai University (USTC), 2019.
+- [Probing mixed-state entanglement with randomized measurements](Talks/20210126Vermersch_Toulouse.pdf), Talks at CoolMe/IQFA workshops, and LPT Toulouse, 2020-2021.
 
 ## <a name="Teaching"> </a> Teaching
 - Quantum algorithms 2020/2021 (Master's degree university Grenoble Alpes): 
