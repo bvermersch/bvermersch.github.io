@@ -7,12 +7,14 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science Fundation (FWF-P32597N), and the LANEF and Nano-Science fundation, for financial support.
 
+-_**Funding available for a Phd position. Contact me if you are interested.**_
 ## <a name="highlights"> </a> News
+
+-*2021.01: Our paper on measuring the many-body Chern number with randomized measurements  has been published in Physical Review Letters*<br/>
+[Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.050501)
 
 -*2020.11: Our paper on mixed-state entanglement from randomized measurements  has been published in Physical Review Letters*<br/>
 [Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.200501)
-
--_**2020.10: Funding available for a Phd position and a postdoc position. Contact me if you are interested.**_
 
 -*2020.10: Aniket Rath starts his PhD on randomized measurements at the university Grenoble Alpes, and Piero Naldesi starts his post-doc in Innsbruck.*
 
@@ -72,7 +74,8 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 - [Probing quantum matter via randomized measurements](Talks/20190226Vermersch_StateKeyLaboratory_PekingUniversity_USTCTalk1.pdf), Seminars at Shanxi and Shanghai University (USTC), 2019.
 - [Quantum simulation and optimization with hot quantum networks](Talks/20190304Vermersch_USTCTalk2.pdf),  Seminars at Shanghai University (USTC), 2019.
 - [Probing mixed-state entanglement with randomized measurements](Talks/20210126Vermersch_Toulouse.pdf), Talks at CoolMe/IQFA workshops, and LPT Toulouse, 2020-2021.
-- [Mixed-state entanglement with randomized measurements -- Dynamical purification in synthetic quantum matter](http://benasque.org/2021scs/talks_contr/243_20210126Vermersch_Benasque.pdf), Talk at Benasque -- Entanglement in Strongly Correlated Systems, 2021.
+- Probing scrambling with randomized measurements, [Youtube Link](https://www.youtube.com/watch?v=QXQpylnXcD8&list=PLRcSLyvevJ1awX7IimKjVsGTd_IGgJHU0) , Talk for the Geoflow Workshop (2021) 
+- [Mixed-state entanglement with randomized measurements -- Dynamical purification in synthetic quantum matter](http://benasque.org/2021scs/talks_contr/243_20210126Vermersch_Benasque.pdf), Talks at Benasque -- Entanglement in Strongly Correlated Systems, 2021, and Seminar at LPTMS (Orsay), March 21.
 
 ## <a name="Teaching"> </a> Teaching
 - Quantum algorithms 2020/2021 (Master's degree university Grenoble Alpes): 
