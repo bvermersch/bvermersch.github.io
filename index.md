@@ -7,8 +7,11 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science Fundation (FWF-P32597N), and the LANEF and Nano-Science fundation, for financial support.
 
--_**Funding available for a Phd position. Contact me if you are interested.**_
 ## <a name="highlights"> </a> News
+
+
+-*2021.05: Habilitation. Thanks to my Jury A. Auffeves, J. Dalibard, N. Goldman, M. Lewenstein, M. Brune!*<br/>
+[Link to the manuscript](Docs/ManuscritHDR_BVermersch_03062021.pdf)
 
 -*2021.01: Our paper on measuring the many-body Chern number with randomized measurements  has been published in Physical Review Letters*<br/>
 [Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.050501)
@@ -85,7 +88,9 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
   * [Lecture 4: Quantum optimization - Quantum simulation](Teaching/QO_Lecture4.pdf)
 
 ## <a name="cv"> </a> Short CV
-- **2019-** Associate professor, University of Grenoble.
+
+- **2021** Habilitation diploma (HDR), University Grenoble-Alpes.
+- **2019-** Associate professor, University Grenoble-Alpes.
 - **2017-2019** Senior scientist at the University of Innsbruck, group of Peter Zoller.
 - **2013-2017** Postdoctoral fellow at the University of Innsbruck, group of Peter Zoller.
 - **2010-2013** PhD student under the supervision of Jean-Claude Garreau, University of Lille.
