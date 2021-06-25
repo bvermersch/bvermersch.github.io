@@ -9,6 +9,9 @@ I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science 
 
 ## <a name="highlights"> </a> News
 
+-*2021.06: Our paper on measuring on Entanglement Hamiltonian Tomography has been published in Nature Physics<br/>
+[Link to the paper](https://www.nature.com/articles/s41567-021-01260-w)
+[Press release](https://iqoqi.at/en/current/news/789-quantum-simulation-measurement-of-entanglement-made-easier)
 
 -*2021.05: Habilitation. Thanks to my Jury A. Auffeves, J. Dalibard, N. Goldman, M. Lewenstein, M. Brune!*<br/>
 [Link to the manuscript](Docs/ManuscritHDR_BVermersch_03062021.pdf)
@@ -21,18 +24,7 @@ I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science 
 
 -*2020.10: Aniket Rath starts his PhD on randomized measurements at the university Grenoble Alpes, and Piero Naldesi starts his post-doc in Innsbruck.*
 
--*2020.06: Python scripts to postprocess randomized measurementis performed on quantum devices available on* [Github](https://github.com/bvermersch/RandomMeas). Joint work with Andreas Elben (Innsbruck).
-
--*2020.06: Our paper on quantum information scrambling in a trapped-ion quantum simulator with tunable range interactions has been published in Physical Review Letters (editor's suggestion)*<br/>
-[Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.240505)
-
--*2020.06: Our paper on Emerging two-dimensional gauge theories in Rydberg configurable arrays has been published in Physical Review X.*<br/>
-[Link to the paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.021057)
-
--<img src="Pics/topological_invariants_1800x1080.jpg" alt="drawing" width="300"><br/>*2020.04: Our paper on measuring many-body topological invariants has been published in Science Advances.*<br/>
-[Link to the paper](https://advances.sciencemag.org/content/6/15/eaaz3666)|
-[Press release](https://iqoqi.at/en/current/news/730-new-protocol-identifies-fascinating-quantum-states)|
-[Interview physicsworld](https://physicsworld.com/a/randomized-measurements-reveal-topological-quantum-states/)
+-*2020.06: Python scripts to postprocess randomized measurements performed on quantum devices available on* [Github](https://github.com/bvermersch/RandomMeas). Joint work with Andreas Elben (Innsbruck).
 
 ## <a name="research"> </a> Research interests
 
