@@ -9,7 +9,7 @@ I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science 
 
 ## <a name="highlights"> </a> News
 
--*2021.06: Our paper on measuring on Entanglement Hamiltonian Tomography has been published in Nature Physics<br/>
+-*2021.06: Our paper on measuring on Entanglement Hamiltonian Tomography has been published in Nature Physics*<br/>
 [Link to the paper](https://www.nature.com/articles/s41567-021-01260-w)
 [Press release](https://iqoqi.at/en/current/news/789-quantum-simulation-measurement-of-entanglement-made-easier)
 
