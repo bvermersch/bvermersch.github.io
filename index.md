@@ -74,11 +74,11 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 - [Importance sampling of randomized measurements to probe entanglement](Talks/20210706Vermersch_MachineLearning2021.pdf), Machine Learning for Quantum, July 6.
 
 ## <a name="Teaching"> </a> Teaching
-- Quantum algorithms 2020/2021 (Master's degree university Grenoble Alpes): 
-  * [Lecture 1: Quantum circuits](Teaching/QO_Lecture1.pdf)
-  * [Lecture 2: Quantum algorithms](Teaching/QO_Lecture2.pdf)
-  * [Lecture 3: Quantum error correction](Teaching/QO_Lecture3.pdf)
-  * [Lecture 4: Quantum optimization - Quantum simulation](Teaching/QO_Lecture4.pdf)
+- [Quantum algorithms 2020/2021](https://master-nanosciences.univ-grenoble-alpes.fr/quantum-algorithms-820935.kjsp?RH=1585217059025) (Master's degree university Grenoble Alpes): 
+  * [Lecture 1: Quantum circuits](Teaching/QuantumAlgorithms_20212022_Lecture1.pdf)
+  ##* [Lecture 2: Quantum algorithms](Teaching/QO_Lecture2.pdf)
+ ## * [Lecture 3: Quantum error correction](Teaching/QO_Lecture3.pdf)
+ ## * [Lecture 4: Quantum optimization - Quantum simulation](Teaching/QO_Lecture4.pdf)
 
 ## <a name="cv"> </a> Short CV
 
