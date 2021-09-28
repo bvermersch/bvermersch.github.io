@@ -70,8 +70,9 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 - [Quantum simulation and optimization with hot quantum networks](Talks/20190304Vermersch_USTCTalk2.pdf),  Seminars at Shanghai University (USTC), 2019.
 - [Probing mixed-state entanglement with randomized measurements](Talks/20210126Vermersch_Toulouse.pdf), Talks at CoolMe/IQFA workshops, and LPT Toulouse, 2020-2021.
 - Probing scrambling with randomized measurements, [Youtube Link](https://www.youtube.com/watch?v=QXQpylnXcD8&list=PLRcSLyvevJ1awX7IimKjVsGTd_IGgJHU0) , Talk for the Geoflow Workshop (2021) 
-- [Mixed-state entanglement with randomized measurements -- Dynamical purification in synthetic quantum matter](http://benasque.org/2021scs/talks_contr/243_20210126Vermersch_Benasque.pdf), Talks at Benasque -- Entanglement in Strongly Correlated Systems, 2021, and Seminar at LPTMS (Orsay), March 21.
-- [Importance sampling of randomized measurements to probe entanglement](Talks/20210706Vermersch_MachineLearning2021.pdf), Machine Learning for Quantum, July 6.
+- [Mixed-state entanglement with randomized measurements -- Dynamical purification in synthetic quantum matter](http://benasque.org/2021scs/talks_contr/243_20210126Vermersch_Benasque.pdf), Talks at Benasque -- Entanglement in Strongly Correlated Systems, 2021, and Seminar at LPTMS (Orsay), March 2021.
+- [Importance sampling of randomized measurements to probe entanglement](Talks/20210706Vermersch_MachineLearning2021.pdf), Machine Learning for Quantum, July 2021.
+- [Probing entanglement in quantum technologies](Talks/20210927Vermersch_CPTGA.pdf), CPTGA Day (broad audience talk),  September 2021.
 
 ## <a name="Teaching"> </a> Teaching
 - [Quantum algorithms](https://master-nanosciences.univ-grenoble-alpes.fr/quantum-algorithms-820935.kjsp?RH=1585217059025) (Master's degree university Grenoble Alpes): 
