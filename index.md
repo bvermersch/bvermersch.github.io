@@ -9,7 +9,7 @@ I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science 
 
 ## <a name="highlights"> </a> News
 
--*2021.10: Offer for a Master 2's internship:*<br/> [Measurement of the quantum Fisher information in quantum computers](https://lpmmc.cnrs.fr/spip.php?article699)
+-*2021.10: Offer for a Master 2's internship:*<br/> [Measurement of the quantum Fisher information in quantum computers](https://lpmmc.cnrs.fr/IMG/pdf/rm_2021_2022.pdf)
 
 -*2021.10: Matteo Votto starts his PhD on entanglement dynamics in quantum computers, and Lata Joshi starts her post-doc in Innsbruck.*
 
