@@ -85,6 +85,7 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
   * [Exercices 1 (solutions)](Teaching/TD1_solution.pdf)
   * [Lecture 2: Quantum algorithms](Teaching/QuantumAlgorithms_20212022_Lecture2.pdf)
   * [Exercices 2](Teaching/TD2.pdf)
+  * [Exercices 2 (solutions)](Teaching/TD2_solution.pdf)
 
 ## <a name="cv"> </a> Short CV
 
