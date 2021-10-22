@@ -8,6 +8,11 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science Fundation (FWF-P32597N), and the LANEF and Nano-Science fundation, for financial support.
 
 ## <a name="highlights"> </a> News
+-*2021.10: Our paper on Quantum Variational Learning of the Entanglement Hamiltonian has been published in Physical Review Letters*<br/>
+[Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.170501)
+
+-*2021.10: Our paper on Symmetry-resolved entanglement detection using partial transpose moments has been published in NPJ Quantum Information*<br/>
+[Link to the paper](https://www.nature.com/articles/s41534-021-00487-y)
 
 -*2021.10: Offer for a Master 2's internship:*<br/> [Measurement of the quantum Fisher information in quantum computers](https://lpmmc.cnrs.fr/IMG/pdf/rm_2021_2022.pdf)
 
