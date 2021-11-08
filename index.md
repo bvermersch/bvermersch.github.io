@@ -82,6 +82,7 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 - [Mixed-state entanglement with randomized measurements -- Dynamical purification in synthetic quantum matter](http://benasque.org/2021scs/talks_contr/243_20210126Vermersch_Benasque.pdf), Talks at Benasque -- Entanglement in Strongly Correlated Systems, 2021, and Seminar at LPTMS (Orsay), March 2021.
 - [Importance sampling of randomized measurements to probe entanglement](Talks/20210706Vermersch_MachineLearning2021.pdf), Machine Learning for Quantum, July 2021.
 - [Probing entanglement in quantum technologies](Talks/20210927Vermersch_CPTGA.pdf), CPTGA Day (broad audience talk),  September 2021.
+- [Making randomized measurements a universal measurement toolbox](Talks/BVermersch_InnsbruckNov42021.pdf), joint Innsbruck-Harvard seminar,  November 2021.
 
 ## <a name="Teaching"> </a> Teaching
 - [Quantum algorithms](https://master-nanosciences.univ-grenoble-alpes.fr/quantum-algorithms-820935.kjsp?RH=1585217059025) (Master's degree university Grenoble Alpes): 
@@ -92,6 +93,9 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
   * [Exercices 2](Teaching/TD2.pdf)
   * [Exercices 2 (solutions)](Teaching/TD2_solution.pdf)
   * [Lecture 3: Quantum error correction](Teaching/QuantumAlgorithms_20212022_Lecture3.pdf)
+  * [Exercices 3](Teaching/TD3.pdf)
+  * [Exercices 3 (solutions)](Teaching/TD3_solution.pdf)
+  * [Lecture 3: Quantum simulation](Teaching/QuantumAlgorithms_20212022_Lecture4.pdf)
 
 ## <a name="cv"> </a> Short CV
 
