@@ -8,6 +8,10 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science Fundation (FWF-P32597N), and the LANEF and Nano-Science fundation, for financial support.
 
 ## <a name="highlights"> </a> News
+-*2021.11: Our paper on importance sampling of randomized measurements  has been published in Physical Review Letters*<br/>
+[Link to the paper](https://link.aps.org/doi/10.1103/PhysRevLett.127.200503)
+[Github](https://github.com/bvermersch/RandomMeas).
+
 -*2021.10: Our paper on Quantum Variational Learning of the Entanglement Hamiltonian has been published in Physical Review Letters*<br/>
 [Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.170501)
 
@@ -25,15 +29,6 @@ I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science 
 -*2021.05: Habilitation. Thanks to my Jury A. Auffeves, J. Dalibard, N. Goldman, M. Lewenstein, M. Brune!*<br/>
 [Link to the manuscript](Docs/ManuscritHDR_BVermersch_03062021.pdf)
 
--*2021.01: Our paper on measuring the many-body Chern number with randomized measurements  has been published in Physical Review Letters*<br/>
-[Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.050501)
-
--*2020.11: Our paper on mixed-state entanglement from randomized measurements  has been published in Physical Review Letters*<br/>
-[Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.200501)
-
--*2020.10: Aniket Rath starts his PhD on randomized measurements at the university Grenoble Alpes, and Piero Naldesi starts his post-doc in Innsbruck.*
-
--*2020.06: Python scripts to postprocess randomized measurements performed on quantum devices available on* [Github](https://github.com/bvermersch/RandomMeas). Joint work with Andreas Elben (Innsbruck).
 
 ## <a name="research"> </a> Research interests
 
