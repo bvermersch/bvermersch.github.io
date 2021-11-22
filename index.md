@@ -18,8 +18,6 @@ I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science 
 -*2021.10: Our paper on Symmetry-resolved entanglement detection using partial transpose moments has been published in NPJ Quantum Information*<br/>
 [Link to the paper](https://www.nature.com/articles/s41534-021-00487-y)
 
--*2021.10: Offer for a Master 2's internship:*<br/> [Measurement of the quantum Fisher information in quantum computers](https://lpmmc.cnrs.fr/IMG/pdf/rm_2021_2022.pdf)
-
 -*2021.10: Matteo Votto starts his PhD on entanglement dynamics in quantum computers, and Lata Joshi starts her post-doc in Innsbruck.*
 
 -*2021.06: Our paper on measuring on Entanglement Hamiltonian Tomography has been published in Nature Physics*<br/>
@@ -92,6 +90,7 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
   * [Exercices 3 (solutions)](Teaching/TD3_solution.pdf)
   * [Lecture 4: Quantum simulation](Teaching/QuantumAlgorithms_20212022_Lecture4.pdf)
   * [Exercices 4](Teaching/TD4.pdf)
+  * [Lecture 5: Quantum optimization](Teaching/QuantumAlgorithms_20212022_Lecture5.pdf)
 
 ## <a name="cv"> </a> Short CV
 
