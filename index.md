@@ -8,6 +8,9 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science Fundation (FWF-P32597N), and the LANEF and Nano-Science fundation, for financial support.
 
 ## <a name="highlights"> </a> News
+-*2022.01: Our paper on probing many-body quantum chaos with quantum simulators has been published in Physical Review X*<br/>
+[Link to the paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.011018)
+
 -*2021.12: Our paper on measuring the quantum Fisher information from randomized measurements  has been published in Physical Review Letters*<br/>
 [Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.260501)
 
