@@ -10,6 +10,7 @@ I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science 
 ## <a name="highlights"> </a> News
 -*2022.01: Our paper on probing many-body quantum chaos with quantum simulators has been published in Physical Review X*<br/>
 [Link to the paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.011018)
+[Presentation by Lata Joshi](https://www.youtube.com/watch?v=jHWJR1GXgZk)
 
 -*2021.12: Our paper on measuring the quantum Fisher information from randomized measurements  has been published in Physical Review Letters*<br/>
 [Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.260501)
