@@ -83,7 +83,7 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 - [Importance sampling of randomized measurements to probe entanglement](Talks/20210706Vermersch_MachineLearning2021.pdf), Machine Learning for Quantum, July 2021.
 - [Probing entanglement in quantum technologies](Talks/20210927Vermersch_CPTGA.pdf), CPTGA Day (broad audience talk),  September 2021.
 - [Making randomized measurements a universal measurement toolbox](Talks/BVermersch_InnsbruckNov42021.pdf), joint Innsbruck-Harvard seminar,  November 2021.
-- [Le r\^ole de l'intrication dans les ordinateurs quantiques](https://www.youtube.com/watch?v=nzCEfEiQVDE), Seminar at ONERA, March 2022 (Youtube video in French)
+- [Intrication et ordinateurs quantiques](https://www.youtube.com/watch?v=nzCEfEiQVDE), broad-audience seminar at ONERA, March 2022 (Youtube video in French)
 
 ## <a name="Teaching"> </a> Teaching
 - [Quantum algorithms](https://master-nanosciences.univ-grenoble-alpes.fr/quantum-algorithms-820935.kjsp?RH=1585217059025) (Master's degree university Grenoble Alpes): 
