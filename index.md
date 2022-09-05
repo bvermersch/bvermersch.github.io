@@ -8,6 +8,10 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science Fundation (FWF-P32597N), and the LANEF and Nano-Science fundation, for financial support.
 
 ## <a name="highlights"> </a> News
+
+-*2022.08: Our review article on Entanglement Hamiltonians has been published in Annelen der Physik
+[Link to the paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.202200064)
+
 -*2022.01: Our paper on probing many-body quantum chaos with quantum simulators has been published in Physical Review X*<br/>
 [Link to the paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.011018)
 [Presentation by Lata Joshi](https://www.youtube.com/watch?v=jHWJR1GXgZk)
@@ -21,19 +25,6 @@ I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science 
 
 -*2021.10: Our paper on Quantum Variational Learning of the Entanglement Hamiltonian has been published in Physical Review Letters*<br/>
 [Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.170501)
-
--*2021.10: Our paper on Symmetry-resolved entanglement detection using partial transpose moments has been published in NPJ Quantum Information*<br/>
-[Link to the paper](https://www.nature.com/articles/s41534-021-00487-y)
-
--*2021.10: Matteo Votto starts his PhD on entanglement dynamics in quantum computers, and Lata Joshi starts her post-doc in Innsbruck.*
-
--*2021.06: Our paper on measuring on Entanglement Hamiltonian Tomography has been published in Nature Physics*<br/>
-[Link to the paper](https://www.nature.com/articles/s41567-021-01260-w)
-[Press release](https://iqoqi.at/en/current/news/789-quantum-simulation-measurement-of-entanglement-made-easier)
-
--*2021.05: Habilitation. Thanks to my Jury A. Auffeves, J. Dalibard, N. Goldman, M. Lewenstein, M. Brune!*<br/>
-[Link to the manuscript](Docs/ManuscritHDR_BVermersch_03062021.pdf)
-
 
 ## <a name="research"> </a> Research interests
 
@@ -87,24 +78,6 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 
 ## <a name="Teaching"> </a> Teaching
 - [Quantum algorithms](https://master-nanosciences.univ-grenoble-alpes.fr/quantum-algorithms-820935.kjsp?RH=1585217059025) (Master's degree university Grenoble Alpes): 
-  * [Lecture 1: Quantum circuits](Teaching/QuantumAlgorithms_20212022_Lecture1.pdf)
-  * [Exercices 1](Teaching/TD1.pdf)
-  * [Exercices 1 (solutions)](Teaching/TD1_solution.pdf)
-  * [Lecture 2: Quantum algorithms](Teaching/QuantumAlgorithms_20212022_Lecture2.pdf)
-  * [Exercices 2](Teaching/TD2.pdf)
-  * [Exercices 2 (solutions)](Teaching/TD2_solution.pdf)
-  * [Lecture 3: Quantum error correction](Teaching/QuantumAlgorithms_20212022_Lecture3.pdf)
-  * [Exercices 3](Teaching/TD3.pdf)
-  * [Exercices 3 (solutions)](Teaching/TD3_solution.pdf)
-  * [Lecture 4: Quantum simulation](Teaching/QuantumAlgorithms_20212022_Lecture4.pdf)
-  * [Exercices 4](Teaching/TD4.pdf)
-  * [Exercices 4 (solutions)](Teaching/TD4_solution.pdf)
-  * [Lecture 5: Quantum optimization](Teaching/QuantumAlgorithms_20212022_Lecture5.pdf)
-  * [Exercices 5](Teaching/TD5.pdf)
-  * [Exercices 5 (solutions)](Teaching/TD5_solution.pdf)
-  * [Lecture 6: Quantum oracles --- Quantum supremacy](Teaching/QuantumAlgorithms_20212022_Lecture6.pdf)
-  * [Exam 2021-2022](Teaching/Exam2021_enonce.pdf)
-  * [Exam 2021-2022 (solution)](Teaching/Exam2021_solution.pdf)
 
 ## <a name="cv"> </a> Short CV
 
@@ -117,4 +90,3 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 
 ##  <a name="Python scripts"> </a> Python scripts
 - Numpy scripts to analyze randomized measurements performed on quantum devices: [Github Link](https://github.com/bvermersch/RandomMeas) 
-
