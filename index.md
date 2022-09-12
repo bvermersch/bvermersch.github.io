@@ -1,4 +1,3 @@
-##  <a name="about"> </a> Beno\^it Vermersch
 <img src="Pics/vermersch.jpg" alt="drawing" width="150"/>
 <br/>
 *Contact*: benoit.vermersch (at) lpmmc.cnrs.fr
