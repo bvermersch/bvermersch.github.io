@@ -78,6 +78,8 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 ## <a name="Teaching"> </a> Teaching
 - [Quantum algorithms](https://master-nanosciences.univ-grenoble-alpes.fr/quantum-algorithms-820935.kjsp?RH=1585217059025) (Master's degree university Grenoble Alpes): 
 	+ [Lecture 1](Teaching/QuantumAlgorithmsBV_Lecture1.pdf): From classical computers to quantum computers
+	+ [Exercices 1](Teaching/TD1.pdf)
+	+ [Solutions 1](Teaching/TD1_solution.pdf)
 
 ## <a name="cv"> </a> Short CV
 
