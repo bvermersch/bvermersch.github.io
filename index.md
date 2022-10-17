@@ -8,9 +8,9 @@ I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science 
 
 ## <a name="highlights"> </a> News
 
--*2022.10: Internship/PhD available. [Check our announcement](Docs/RM_2022_2023.pdf)
+-*2022.10: Internship/PhD available.*[Check our announcement](Docs/RM_2022_2023.pdf)
 
--*2022.08: Our review article on Entanglement Hamiltonians has been published in Annelen der Physik
+-*2022.08: Our review article on Entanglement Hamiltonians has been published in Annelen der Physik*<br/>
 [Link to the paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.202200064)
 
 -*2022.01: Our paper on probing many-body quantum chaos with quantum simulators has been published in Physical Review X*<br/>
