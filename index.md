@@ -88,8 +88,8 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 	+ [Lecture 3](Teaching/QuantumAlgorithmsBV_Lecture3.pdf): From classical computers to quantum computers
 	+ [Exercices 3](Teaching/TD3.pdf)
 	+ [Solutions 3](Teaching/TD3_solution.pdf)
-	+ [Exam 2021/2022](Teaching/Exam_2021_enonce.pdf)
-	+ [Solutions Exam 2021/2022](Teaching/Solutions_Exam_2021_solution.pdf)
+	+ [Exam 2021/2022](Teaching/Exam2021_enonce.pdf)
+	+ [Solutions Exam 2021/2022](Teaching/Exam2021_solution.pdf)
 
 
 ## <a name="cv"> </a> Short CV
