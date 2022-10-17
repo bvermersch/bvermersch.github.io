@@ -8,6 +8,8 @@ I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science 
 
 ## <a name="highlights"> </a> News
 
+-* 2022.10: Internship/PhD available. [Check our announcement](Docs/RM_2022_2023.pdf)
+
 -*2022.08: Our review article on Entanglement Hamiltonians has been published in Annelen der Physik
 [Link to the paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.202200064)
 
@@ -80,6 +82,15 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 	+ [Lecture 1](Teaching/QuantumAlgorithmsBV_Lecture1.pdf): From classical computers to quantum computers
 	+ [Exercices 1](Teaching/TD1.pdf)
 	+ [Solutions 1](Teaching/TD1_solution.pdf)
+	+ [Lecture 2](Teaching/QuantumAlgorithmsBV_Lecture2.pdf): From classical computers to quantum computers
+	+ [Exercices 2](Teaching/TD2.pdf)
+	+ [Solutions 2](Teaching/TD2_solution.pdf)
+	+ [Lecture 3](Teaching/QuantumAlgorithmsBV_Lecture3.pdf): From classical computers to quantum computers
+	+ [Exercices 3](Teaching/TD3.pdf)
+	+ [Solutions 3](Teaching/TD3_solution.pdf)
+	+ [Exam 2021/2022](Teaching/Exam_2021_enonce.pdf)
+	+ [Solutions Exam 2021/2022](Teaching/Solutions_Exam_2021_solution.pdf)
+
 
 ## <a name="cv"> </a> Short CV
 
