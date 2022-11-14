@@ -84,12 +84,16 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 	+ [Lecture 1](Teaching/QuantumAlgorithmsBV_Lecture1.pdf): From classical computers to quantum computers
 	+ [Exercices 1](Teaching/TD1.pdf)
 	+ [Solutions 1](Teaching/TD1_solution.pdf)
-	+ [Lecture 2](Teaching/QuantumAlgorithmsBV_Lecture2.pdf): From classical computers to quantum computers
+	+ [Lecture 2](Teaching/QuantumAlgorithmsBV_Lecture2.pdf): Quantum algorithms (1)
 	+ [Exercices 2](Teaching/TD2.pdf)
 	+ [Solutions 2](Teaching/TD2_solution.pdf)
-	+ [Lecture 3](Teaching/QuantumAlgorithmsBV_Lecture3.pdf): From classical computers to quantum computers
+	+ [Lecture 2](Teaching/QuantumAlgorithmsBV_Lecture3.pdf): Quantum algorithms (2)
 	+ [Exercices 3](Teaching/TD3.pdf)
 	+ [Solutions 3](Teaching/TD3_solution.pdf)
+	+ [Lecture 3](Teaching/QuantumAlgorithmsBV_Lecture4.pdf): Quantum error correction
+	+ [Exercices 4](Teaching/TD4.pdf)
+	+ [Solutions 4](Teaching/TD4_solution.pdf)
+	+ [Lecture 3](Teaching/QuantumAlgorithmsBV_Lecture5.pdf): Quantum simulation and quantum optimization
 	+ [Exam 2021/2022](Teaching/Exam2021_enonce.pdf)
 	+ [Solutions Exam 2021/2022](Teaching/Exam2021_solution.pdf)
 
