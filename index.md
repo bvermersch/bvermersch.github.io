@@ -97,8 +97,8 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 	+ [Exercices 5](Teaching/TD5.pdf)
 	+ [Solutions 5](Teaching/TD5_solution.pdf)
 	+ [Lecture 6](Teaching/QuantumAlgorithmsBV_Lecture6.pdf): Bonus Lecture: Quantum oracles and quantum supremacy
-	+ [Exercices 5](Teaching/TD6.pdf): Bonus exercice: The density matrix and quantum state tomography
-	+ [Solutions 5](Teaching/TD6_solution.pdf)
+	+ [Exercices 6](Teaching/TD6.pdf): Bonus exercice: The density matrix and quantum state tomography
+	+ [Solutions 6](Teaching/TD6_solution.pdf)
 	+ [Exam 2021/2022](Teaching/Exam2021_enonce.pdf)
 	+ [Solutions Exam 2021/2022](Teaching/Exam2021_solution.pdf)
 
