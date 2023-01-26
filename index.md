@@ -4,11 +4,26 @@
 
 I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), member of the [LPMMC](https://lpmmc.cnrs.fr/). I am also researcher at the institute for quantum optics and quantum information [(IQOQI)](http://iqoqi.at/en), in Innsbruck.
 
-I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science Fundation (FWF-P32597N), and the LANEF and Nano-Science fundation, for financial support.
+- Research interests
+
+	+ Implementations of quantum processing units with cold atoms, trapped ions, superconducting qubits,...
+	+ Measurement protocols for entanglement-related quantities, out-of-time ordered correlators, topological invariants.
+	+ Many-body entanglement theory
+	+ Quantum networks : Light-matter interfaces, quantum state transfer protocols, waveguide quantum electrodynamics.
+	+ Tensor-network numerical methods: Matrix-Product-States and DMRG,TEBD related algorithms
+
+- Want to now more?
+
+	+ [arXiv](https://arxiv.org/search/?searchtype=author&query=Vermersch%2C+B)
+	+ [Google Scholar](https://scholar.google.com/citations?user=gbPKVn4AAAAJ&hl=en)
+	+ [ORCID](https://orcid.org/0000-0001-6781-2079)
 
 ## <a name="highlights"> </a> News
 
 -*2022.10: Internship/PhD available.*[Check our announcement](Docs/RM_2022_2023.pdf)
+
+-*2022.12: Our review article on The Randomized Measurement Toolbox has been published!*<br/>
+[Link to the paper](https://www.nature.com/articles/s42254-022-00535-2)
 
 -*2022.08: Our review article on Entanglement Hamiltonians has been published in Annelen der Physik*<br/>
 [Link to the paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.202200064)
@@ -16,53 +31,6 @@ I thank Agence Nationale de la Recherche (ANR-JCJC QRand), the Austrian Science 
 -*2022.01: Our paper on probing many-body quantum chaos with quantum simulators has been published in Physical Review X*<br/>
 [Link to the paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.011018)
 [Presentation by Lata Joshi](https://www.youtube.com/watch?v=jHWJR1GXgZk)
-
--*2021.12: Our paper on measuring the quantum Fisher information from randomized measurements  has been published in Physical Review Letters*<br/>
-[Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.260501)
-
--*2021.11: Our paper on importance sampling of randomized measurements  has been published in Physical Review Letters*<br/>
-[Link to the paper](https://link.aps.org/doi/10.1103/PhysRevLett.127.200503)
-[Github](https://github.com/bvermersch/RandomMeas).
-
--*2021.10: Our paper on Quantum Variational Learning of the Entanglement Hamiltonian has been published in Physical Review Letters*<br/>
-[Link to the paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.170501)
-
-## <a name="research"> </a> Research interests
-
-### 1. Synthetic quantum systems for quantum technologies
-
-<img src="Pics/Brydges2019.jpg" alt="drawing" width="300"/> <br/>*Measurement of entanglement entropies in a trapped-ion quantum simulator (Science 364, 260-263 (2019))* 
-
-- Implementations with cold atoms, trapped ions, superconducting qubits,...
-- Measurement protocols for 
-Entanglement-related quantities, out-of-time ordered correlators, topological invariants.
-- *Selected publications*:
-[NP 14, 827–831 (2018)](https://www.nature.com/articles/s41567-018-0151-7), 
-[PRL 120, 050406 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.050406), 
-[Science 364, 260-263 (2019)](https://science.sciencemag.org/content/364/6437/260)
-
-
-### 2. Quantum networks
-
- <img src="Pics/Schuetz2019.jpg" alt="drawing" width="300"/><br/>*Quantum simulation and optimization in a hot quantum network [PRB 99, 241302(R) (2019)]* 
-
-- Light-matter interfaces, quantum state transfer protocols, waveguide quantum electrodynamics.
-- *Selected publications*:
- [PRL 118, 133601 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.133601), 
- [PRB 99, 241302(R) (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.241302), 
- [PRL 122, 093601 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.093601)
-
-### 3. Tensor-network numerical methods
-
- <img src="Pics/Schuetz2019_2.jpg" alt="drawing" width="200"/>  <br/>*Matrix-Product-state simulation of an entangling gate mediated by a multimode waveguide [PRB 99, 241302(R) (2019)]*
-
- - Matrix-Product-States and DMRG,TEBD related algorithms.
- 
-## <a name="publications"> </a> Publications
-
-- [arXiv](https://arxiv.org/search/?searchtype=author&query=Vermersch%2C+B)
-- [Google Scholar](https://scholar.google.com/citations?user=gbPKVn4AAAAJ&hl=en)
-- [ORCID](https://orcid.org/0000-0001-6781-2079)
 
 ## <a name="talks"> </a> Selected presentations available for download
 
@@ -99,6 +67,8 @@ Entanglement-related quantities, out-of-time ordered correlators, topological in
 	+ [Lecture 6](Teaching/QuantumAlgorithmsBV_Lecture6.pdf): Bonus Lecture: Quantum oracles and quantum supremacy
 	+ [Exercices 6](Teaching/TD6.pdf): Bonus exercice: The density matrix and quantum state tomography
 	+ [Solutions 6](Teaching/TD6_solution.pdf)
+	+ [Exam 2022/2023](Teaching/Exam2022.pdf)
+	+ [Solutions Exam 2022/2023](Teaching/Exam2022_solution.pdf)
 	+ [Exam 2021/2022](Teaching/Exam2021_enonce.pdf)
 	+ [Solutions Exam 2021/2022](Teaching/Exam2021_solution.pdf)
 
