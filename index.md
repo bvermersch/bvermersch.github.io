@@ -77,7 +77,7 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 
 ## <a name="cv"> </a> Short CV
 
-- **2021** Habilitation diploma (HDR), University Grenoble-Alpes [Manuscript](ManuscritHDR_BVermersch_03062021.pdf)
+- **2021** Habilitation diploma (HDR), University Grenoble-Alpes [Manuscript](Docs/ManuscritHDR_BVermersch_03062021.pdf)
 - **2019-** Associate professor, University Grenoble-Alpes.
 - **2017-2019** Senior scientist at the University of Innsbruck, group of Peter Zoller.
 - **2013-2017** Postdoctoral fellow at the University of Innsbruck, group of Peter Zoller.
