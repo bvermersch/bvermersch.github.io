@@ -18,6 +18,9 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 	+ [Google Scholar](https://scholar.google.com/citations?user=gbPKVn4AAAAJ&hl=en)
 	+ [ORCID](https://orcid.org/0000-0001-6781-2079)
 
+## <a name="highlights"> </a> The team
+<img src="Pics/GroupPicture.png" alt="drawing" width="550"/>
+
 ## <a name="highlights"> </a> News
 
 -*2022.10: Internship/PhD available.*[Check our announcement](Docs/RM_2022_2023.pdf)
