@@ -51,6 +51,9 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at ICFO April 2022//Quantum measurements theory conference, Bad Honnef, July 2022
 - [Understanding the role of entanglement in quantum computing](Talks/Vermersch_Kigali09152022.pdf) Quantum Africa Conference, Kigali, September 2022 (online)
 - [Recent progress in the development of the randomized measurement toolbox](Talks/Vermersch_Tsinghua10122022.pdf) Seminar at Tsinghua's university, October 2022 (online)
+- [Probing entanglement using the randomized measurement toolbox](Talks/Vermersch_Aussois11302022.pdf), GDR Meso Day (broad audience talk),  November 2022.
+- [Talk on randomized measurements of the quantum Fisher information, and on Common randomized measurements](Talks/Vermersch_SanktAnton05242023.pdf), Workshop Many-boy quantum information, Sankt Anton, May 2023.
+
 
 ## <a name="Teaching"> </a> Teaching
 - [Quantum algorithms](https://master-nanosciences.univ-grenoble-alpes.fr/quantum-algorithms-820935.kjsp?RH=1585217059025) (Master's degree university Grenoble Alpes): 
