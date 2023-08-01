@@ -23,8 +23,6 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 ## <a name="highlights"> </a> News
 
--*2022.10: Internship/PhD available.*[Check our announcement](Docs/RM_2022_2023.pdf)
-
 -*2022.12: Our review article on The Randomized Measurement Toolbox has been published!*<br/>
 [Link to the paper](https://www.nature.com/articles/s42254-022-00535-2)
 
