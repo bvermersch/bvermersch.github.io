@@ -54,27 +54,27 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 - [Quantum algorithms](https://master-nanosciences.univ-grenoble-alpes.fr/quantum-algorithms-820935.kjsp?RH=1585217059025) (Master's degree university Grenoble Alpes): 
 	+ [Lecture 1](Teaching/QuantumAlgorithmsBV_Lecture1.pdf): From classical computers to quantum computers
 
-	# + [Exercices 1](Teaching/TD1.pdf)
-	# + [Solutions 1](Teaching/TD1_solution.pdf)
-	# + [Lecture 2](Teaching/QuantumAlgorithmsBV_Lecture2.pdf): Quantum algorithms (1)
-	# + [Exercices 2](Teaching/TD2.pdf)
-	# + [Solutions 2](Teaching/TD2_solution.pdf)
-	# + [Lecture 2](Teaching/QuantumAlgorithmsBV_Lecture3.pdf): Quantum algorithms (2)
-	# + [Exercices 3](Teaching/TD3.pdf)
-	# + [Solutions 3](Teaching/TD3_solution.pdf)
-	# + [Lecture 4](Teaching/QuantumAlgorithmsBV_Lecture4.pdf): Quantum error correction
-	# + [Exercices 4](Teaching/TD4.pdf)
-	# + [Solutions 4](Teaching/TD4_solution.pdf)
-	# + [Lecture 5](Teaching/QuantumAlgorithmsBV_Lecture5.pdf): Quantum simulation and quantum optimization
-	# + [Exercices 5](Teaching/TD5.pdf)
-	# + [Solutions 5](Teaching/TD5_solution.pdf)
-	# + [Lecture 6](Teaching/QuantumAlgorithmsBV_Lecture6.pdf): Bonus Lecture: Quantum oracles and quantum supremacy
-	# + [Exercices 6](Teaching/TD6.pdf): Bonus exercice: The density matrix and quantum state tomography
-	# + [Solutions 6](Teaching/TD6_solution.pdf)
-	# + [Exam 2022/2023](Teaching/Exam2022.pdf)
-	# + [Solutions Exam 2022/2023](Teaching/Exam2022_solution.pdf)
-	# + [Exam 2021/2022](Teaching/Exam2021_enonce.pdf)
-	# + [Solutions Exam 2021/2022](Teaching/Exam2021_solution.pdf)
+	<!--+ [Exercices 1](Teaching/TD1.pdf)
+	+ [Solutions 1](Teaching/TD1_solution.pdf)
+	+ [Lecture 2](Teaching/QuantumAlgorithmsBV_Lecture2.pdf): Quantum algorithms (1)
+	+ [Exercices 2](Teaching/TD2.pdf)
+	+ [Solutions 2](Teaching/TD2_solution.pdf)
+	+ [Lecture 2](Teaching/QuantumAlgorithmsBV_Lecture3.pdf): Quantum algorithms (2)
+	+ [Exercices 3](Teaching/TD3.pdf)
+	+ [Solutions 3](Teaching/TD3_solution.pdf)
+	+ [Lecture 4](Teaching/QuantumAlgorithmsBV_Lecture4.pdf): Quantum error correction
+	+ [Exercices 4](Teaching/TD4.pdf)
+	+ [Solutions 4](Teaching/TD4_solution.pdf)
+	+ [Lecture 5](Teaching/QuantumAlgorithmsBV_Lecture5.pdf): Quantum simulation and quantum optimization
+	+ [Exercices 5](Teaching/TD5.pdf)
+	+ [Solutions 5](Teaching/TD5_solution.pdf)
+	+ [Lecture 6](Teaching/QuantumAlgorithmsBV_Lecture6.pdf): Bonus Lecture: Quantum oracles and quantum supremacy
+	+ [Exercices 6](Teaching/TD6.pdf): Bonus exercice: The density matrix and quantum state tomography
+	+ [Solutions 6](Teaching/TD6_solution.pdf)
+	+ [Exam 2022/2023](Teaching/Exam2022.pdf)
+	+ [Solutions Exam 2022/2023](Teaching/Exam2022_solution.pdf)
+	+ [Exam 2021/2022](Teaching/Exam2021_enonce.pdf)
+	+ [Solutions Exam 2021/2022](Teaching/Exam2021_solution.pdf)-->
 
 
 ## <a name="cv"> </a> Short CV
