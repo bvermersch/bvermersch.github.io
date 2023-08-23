@@ -53,6 +53,7 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 ## <a name="Teaching"> </a> Teaching
 - [Quantum algorithms](https://master-nanosciences.univ-grenoble-alpes.fr/quantum-algorithms-820935.kjsp?RH=1585217059025) (Master's degree university Grenoble Alpes): 
 	+ [Lecture 1](Teaching/QuantumAlgorithmsBV_Lecture1.pdf): From classical computers to quantum computers
+
 	#+ [Exercices 1](Teaching/TD1.pdf)
 	#+ [Solutions 1](Teaching/TD1_solution.pdf)
 	#+ [Lecture 2](Teaching/QuantumAlgorithmsBV_Lecture2.pdf): Quantum algorithms (1)
