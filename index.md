@@ -25,6 +25,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 -*2023.08: Our article on Fermionic quantum processing with programmable neutral atom arrays has been published!*<br/>
 [Link to the paper](www.pnas.org/doi/10.1073/pnas.2304294120)
+
 -*2023.08: Our article on Fermionic correlation functions from randomized measurements in programmable atomic quantum devices has been published!*<br/>
 [Link to the paper](https://doi.org/10.1103/PhysRevLett.131.060601)
 
