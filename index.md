@@ -2,7 +2,7 @@
 <br/>
 *Contact*: benoit.vermersch (at) lpmmc.cnrs.fr
 
-I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), member of the [LPMMC](https://lpmmc.cnrs.fr/). I am also researcher at the institute for quantum optics and quantum information [(IQOQI)](http://iqoqi.at/en), in Innsbruck.
+I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), member of the [LPMMC](https://lpmmc.cnrs.fr).
 
 - Research interests
 
@@ -53,6 +53,8 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 ## <a name="Teaching"> </a> Teaching
 - [Quantum algorithms](https://master-nanosciences.univ-grenoble-alpes.fr/quantum-algorithms-820935.kjsp?RH=1585217059025) (Master's degree university Grenoble Alpes): 
 	+ [Lecture 1](Teaching/QuantumAlgorithmsBV_Lecture1.pdf): From classical computers to quantum computers
+	+ [Exercices 1](Teaching/TD1.pdf): Classical/Quantum gates
+	+ [Solutions 1](Teaching/TD1_solution.pdf)
 
 ## <a name="cv"> </a> Short CV
 
