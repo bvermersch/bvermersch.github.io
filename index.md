@@ -48,13 +48,21 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 - [Recent progress in the development of the randomized measurement toolbox](Talks/Vermersch_Tsinghua10122022.pdf) Seminar at Tsinghua's university, October 2022 (online)
 - [Probing entanglement using the randomized measurement toolbox](Talks/Vermersch_Aussois11302022.pdf), GDR Meso Day (broad audience talk),  November 2022.
 - [Talk on randomized measurements of the quantum Fisher information, and on Common randomized measurements](Talks/Vermersch_SanktAnton05242023.pdf), Workshop Many-boy quantum information, Sankt Anton, May 2023.
+[Robust universal quantum processors in spin systems via Walsh pulse sequences](https://www.youtube.com/watch?v=pbOzS3_V4Y0&pp=ygUPdmVybWVyc2NoIHdhbHNo), Rydberg conference London, July 2023.
 
 
 ## <a name="Teaching"> </a> Teaching
 - [Quantum algorithms](https://master-nanosciences.univ-grenoble-alpes.fr/quantum-algorithms-820935.kjsp?RH=1585217059025) (Master's degree university Grenoble Alpes): 
 	+ [Lecture 1](Teaching/QuantumAlgorithmsBV_Lecture1.pdf): From classical computers to quantum computers
 	+ [Exercices 1](Teaching/TD1.pdf): Classical/Quantum gates
-	+ [Solutions 1](Teaching/TD1_solution.pdf)
+	+ [Lecture 2](Teaching/QuantumAlgorithmsBV_Lecture2.pdf): Quantum algorithms(1)
+	+ [Exercices 2](Teaching/TD2.pdf): Grover's diffuser
+	+ [Lecture 3](Teaching/QuantumAlgorithmsBV_Lecture3.pdf): Quantum algorithms(2)
+	+ [Exercices 3](Teaching/TD3.pdf): Quantum Fourier Transform
+	+ [Lecture 4](Teaching/QuantumAlgorithmsBV_Lecture4.pdf): Quantum error correction
+	+ [Exercices 4](Teaching/TD4.pdf): Quantum error correction
+	+ [Lecture 5](Teaching/QuantumAlgorithmsBV_Lecture5.pdf): Quantum simulation/optimization
+	+ [Exercices 5](Teaching/TD5.pdf): Jordan-wigner transformation/quantum adiabatic theorem
 
 ## <a name="cv"> </a> Short CV
 
