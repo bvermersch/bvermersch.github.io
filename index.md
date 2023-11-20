@@ -23,6 +23,8 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 ## <a name="highlights"> </a> News
 
+-*2023.11: We have positions for postdocs. We are very much interested in profiles related to quantum information theory and many-body quantum systems. Please reach out! 
+
 -*2023.08: Our article on Fermionic quantum processing with programmable neutral atom arrays has been published!*<br/>
 [Link to the paper](https://www.pnas.org/doi/10.1073/pnas.2304294120)
 
