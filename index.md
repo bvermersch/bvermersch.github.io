@@ -23,7 +23,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 ## <a name="highlights"> </a> News
 
--*2023.11: We have several positions for postdocs in quantum information theory and many-body quantum systems. Our research consists in developing  scalable benchmark/measurement protocols for quantum processors.  We also would like to propose/test physical implementation of quantum architectures using Rydberg atoms, trapped ions, and other spin systems. We are very much interested in expertise related to tensor-networks, randomized protocols and quantum measurements, quantum error mitigation, stabilized formalism. Please reach out! 
+-*2023.11: We have several positions for postdocs in quantum information theory and many-body quantum systems. Our research consists in developing  scalable benchmark/measurement protocols for quantum processors.  We also would like to propose/test physical implementation of quantum architectures using Rydberg atoms, trapped ions, and other spin systems. We are very much interested in expertise related to tensor-networks, randomized protocols and quantum measurements, quantum error mitigation, stabilized formalism. Please reach out! *<br/>
 
 -*2023.08: Our article on Fermionic quantum processing with programmable neutral atom arrays has been published!*<br/>
 [Link to the paper](https://www.pnas.org/doi/10.1073/pnas.2304294120)
