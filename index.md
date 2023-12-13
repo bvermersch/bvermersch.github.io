@@ -65,6 +65,10 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 	+ [Exercices 4](Teaching/TD4.pdf): Quantum error correction
 	+ [Lecture 5](Teaching/QuantumAlgorithmsBV_Lecture5.pdf): Quantum simulation/optimization
 	+ [Exercices 5](Teaching/TD5.pdf): Jordan-wigner transformation/quantum adiabatic theorem
+    + [Exam 2021](Teaching/Exam2021.pdf) : Grover with multiple solutions/Shor Code
+    + [Exam 2021 solution](Teaching/Exam2021_solution.pdf)
+    + [Exam 2022](Teaching/Exam2022.pdf) : Quantum phase estimation
+    + [Exam 2022 solution](Teaching/Exam2022_solution.pdf)
 
 ## <a name="cv"> </a> Short CV
 
@@ -75,5 +79,6 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 - **2010-2013** PhD student under the supervision of Jean-Claude Garreau, University of Lille.
 - **2006-2010** École Polytechnique.
 
-##  <a name="Python scripts"> </a> Python scripts
-- Numpy scripts to analyze randomized measurements performed on quantum devices: [Github Link](https://github.com/bvermersch/RandomMeas) 
+##  <a name="Codes"> </a> Codes
+- Python scripts to analyze randomized measurements performed on quantum devices: [Github Link](https://github.com/bvermersch/RandomMeas) 
+- The randomized measurement toolbox in Julia: [Github Link](https://github.com/bvermersch/RandomMeas.jl) 
