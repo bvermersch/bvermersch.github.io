@@ -51,6 +51,7 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 - [Probing entanglement using the randomized measurement toolbox](Talks/Vermersch_Aussois11302022.pdf), GDR Meso Day (broad audience talk),  November 2022.
 - [Talk on randomized measurements of the quantum Fisher information, and on Common randomized measurements](Talks/Vermersch_SanktAnton05242023.pdf), Workshop Many-boy quantum information, Sankt Anton, May 2023.
 - [Robust universal quantum processors in spin systems via Walsh pulse sequences](https://www.youtube.com/watch?v=pbOzS3_V4Y0&pp=ygUPdmVybWVyc2NoIHdhbHNo), Rydberg conference London, July 2023.
+- [Probing entanglement using the randomized measurement toolbox](Talks/Vermersch_Heidelberg01192024.pdf), Heidelberg's Structures cluster of excellence Jour Fixe  (very broad audience talk),  January 2023.
 
 
 ## <a name="Teaching"> </a> Teaching
