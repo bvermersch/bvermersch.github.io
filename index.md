@@ -70,6 +70,8 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
     + [Exam 2021 solution](Teaching/Exam2021_solution.pdf)
     + [Exam 2022](Teaching/Exam2022.pdf) : Quantum phase estimation
     + [Exam 2022 solution](Teaching/Exam2022_solution.pdf)
+    + [Exam 2022](Teaching/Exam2023.pdf) : Simon's algorithm
+    + [Exam 2022 solution](Teaching/Exam2023_solution.pdf)
 
 ## <a name="cv"> </a> Short CV
 
