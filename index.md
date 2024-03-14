@@ -23,7 +23,7 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 
 ## <a name="highlights"> </a> News
 
--*2023.11: We have positions for postdocs. We are very much interested in profiles related to quantum information theory and many-body quantum systems. Please reach out! 
+-*2023.11: We have several positions for postdocs in quantum information theory and many-body quantum systems. Our research consists in developing  scalable benchmark/measurement protocols for quantum processors.  We also would like to propose/test physical implementation of quantum architectures using Rydberg atoms, trapped ions, and other spin systems. We are very much interested in expertise related to tensor-networks, randomized protocols and quantum measurements, quantum error mitigation, stabilized formalism. Please reach out!*<br/>
 
 -*2023.08: Our article on Fermionic quantum processing with programmable neutral atom arrays has been published!*<br/>
 [Link to the paper](https://www.pnas.org/doi/10.1073/pnas.2304294120)
@@ -51,6 +51,7 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 - [Probing entanglement using the randomized measurement toolbox](Talks/Vermersch_Aussois11302022.pdf), GDR Meso Day (broad audience talk),  November 2022.
 - [Talk on randomized measurements of the quantum Fisher information, and on Common randomized measurements](Talks/Vermersch_SanktAnton05242023.pdf), Workshop Many-boy quantum information, Sankt Anton, May 2023.
 - [Robust universal quantum processors in spin systems via Walsh pulse sequences](https://www.youtube.com/watch?v=pbOzS3_V4Y0&pp=ygUPdmVybWVyc2NoIHdhbHNo), Rydberg conference London, July 2023.
+- [Probing entanglement using the randomized measurement toolbox](Talks/Vermersch_Heidelberg01192024.pdf), Heidelberg's Structures cluster of excellence Jour Fixe  (very broad audience talk),  January 2023.
 
 
 ## <a name="Teaching"> </a> Teaching
@@ -65,6 +66,12 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 	+ [Exercices 4](Teaching/TD4.pdf): Quantum error correction
 	+ [Lecture 5](Teaching/QuantumAlgorithmsBV_Lecture5.pdf): Quantum simulation/optimization
 	+ [Exercices 5](Teaching/TD5.pdf): Jordan-wigner transformation/quantum adiabatic theorem
+    + [Exam 2021](Teaching/Exam2021.pdf) : Grover with multiple solutions/Shor Code
+    + [Exam 2021 solution](Teaching/Exam2021_solution.pdf)
+    + [Exam 2022](Teaching/Exam2022.pdf) : Quantum phase estimation
+    + [Exam 2022 solution](Teaching/Exam2022_solution.pdf)
+    + [Exam 2023](Teaching/Exam2023.pdf) : Simon's algorithm
+    + [Exam 2023 solution](Teaching/Exam2023_solution.pdf)
 
 ## <a name="cv"> </a> Short CV
 
@@ -75,5 +82,6 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 - **2010-2013** PhD student under the supervision of Jean-Claude Garreau, University of Lille.
 - **2006-2010** École Polytechnique.
 
-##  <a name="Python scripts"> </a> Python scripts
-- Numpy scripts to analyze randomized measurements performed on quantum devices: [Github Link](https://github.com/bvermersch/RandomMeas) 
+##  <a name="Codes"> </a> Codes
+- Python scripts to analyze randomized measurements performed on quantum devices: [Github Link](https://github.com/bvermersch/RandomMeas) 
+- The randomized measurement toolbox in Julia: [Github Link](https://github.com/bvermersch/RandomMeas.jl) 
