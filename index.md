@@ -73,9 +73,9 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
     + [Exam 2023](Teaching/Exam2023.pdf) : Simon's algorithm
     + [Exam 2023 solution](Teaching/Exam2023_solution.pdf)
 - Introduction to quantum computing: MAWI school on ultracold quantum matter
- + [From classical to quantum computers](Teaching/QuantumAlgorithmsBV_Training1.pdf)
- + [Quantum algorithms and quantum error correction](Teaching/QuantumAlgorithmsBV_Training2.pdf)
- + [Quantum Practical](https://github.com/bvermersch/bvermersch.github.io/blob/master/Teaching/QuantumPractical.ipynb)
+    + [From classical to quantum computers](Teaching/QuantumAlgorithmsBV_Training1.pdf)
+    + [Quantum algorithms and quantum error correction](Teaching/QuantumAlgorithmsBV_Training2.pdf)
+    + [Quantum Practical](https://github.com/bvermersch/bvermersch.github.io/blob/master/Teaching/QuantumPractical.ipynb)
 
 ## <a name="cv"> </a> Short CV
 
