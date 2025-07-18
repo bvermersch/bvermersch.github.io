@@ -2,7 +2,11 @@
 <br/>
 *Contact*: benoit.vermersch (at) lpmmc.cnrs.fr
 
+
 I am an associate professor at the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr), member of the [LPMMC](https://lpmmc.cnrs.fr).
+
+I am currently on leave in the quantum startup [Quobly](https://quobly.io)
+
 
 - Research interests
 
@@ -17,19 +21,6 @@ I am an associate professor at the [University of Grenoble Alpes](https://www.un
 	+ [arXiv](https://arxiv.org/search/?searchtype=author&query=Vermersch%2C+B)
 	+ [Google Scholar](https://scholar.google.com/citations?user=gbPKVn4AAAAJ&hl=en)
 	+ [ORCID](https://orcid.org/0000-0001-6781-2079)
-
-## <a name="highlights"> </a> The team
-<img src="Pics/GroupPicture.png" alt="drawing" width="550"/>
-
-## <a name="highlights"> </a> News
-
--*2023.11: We have several positions for postdocs in quantum information theory and many-body quantum systems. Our research consists in developing  scalable benchmark/measurement protocols for quantum processors.  We also would like to propose/test physical implementation of quantum architectures using Rydberg atoms, trapped ions, and other spin systems. We are very much interested in expertise related to tensor-networks, randomized protocols and quantum measurements, quantum error mitigation, stabilized formalism. Please reach out!*<br/>
-
--*2023.08: Our article on Fermionic quantum processing with programmable neutral atom arrays has been published!*<br/>
-[Link to the paper](https://www.pnas.org/doi/10.1073/pnas.2304294120)
-
--*2023.08: Our article on Fermionic correlation functions from randomized measurements in programmable atomic quantum devices has been published!*<br/>
-[Link to the paper](https://doi.org/10.1103/PhysRevLett.131.060601)
 
 
 ## <a name="talks"> </a> Selected presentations available for download
@@ -53,7 +44,9 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 - [Robust universal quantum processors in spin systems via Walsh pulse sequences](https://www.youtube.com/watch?v=pbOzS3_V4Y0&pp=ygUPdmVybWVyc2NoIHdhbHNo), Rydberg conference London, July 2023.
 - [Probing entanglement using the randomized measurement toolbox](Talks/Vermersch_Heidelberg01192024.pdf), Heidelberg's Structures cluster of excellence Jour Fixe  (very broad audience talk),  January 2024.
 - [Robust universal quantum processors in spin systems via Walsh pulse sequences](https://pro.college-de-france.fr/jean.dalibard/CdF/2024/colloque.html), Rydberg Worshop at College de France,  April 2024.
-- [Many-body entropies and entanglement from polynomially-many local measurements](https://www.youtube.com/watch?v=5BbnYfpKhk8), ICTP Trieste conference on machine learning and quantum simulation, May 2024 
+- [Many-body entropies and entanglement from polynomially-many local measurements](https://www.youtube.com/watch?v=5BbnYfpKhk8), ICTP Trieste conference on machine learning and quantum simulation, May 2024
+- [Randomized measurements for large-scale quantum experiments](Talks/VermerschMITMay25_2025_v2.pdf), Quantum technology workshop at university of Tenessee at Chattanooga, June 2025
+- [Randomized measurements for large-scale quantum experiments (long version)](Talks/VermerschMITMay25_2025_v2.pdf), Seminar at MIT, June 2025
 
 
 ## <a name="Teaching"> </a> Teaching
@@ -74,6 +67,8 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
     + [Exam 2022 solution](Teaching/Exam2022_solution.pdf)
     + [Exam 2023](Teaching/Exam2023.pdf) : Simon's algorithm
     + [Exam 2023 solution](Teaching/Exam2023_solution.pdf)
+    + [Exam 2024](Teaching/Exam2024.pdf) : Block encoding
+    + [Exam 2024 solution](Teaching/Exam2024_solution.pdf)
 - Introduction to quantum computing: MAWI school on ultracold quantum matter
     + [From classical to quantum computers](Teaching/QuantumAlgorithmsBV_Training1.pdf)
     + [Quantum algorithms and quantum error correction](Teaching/QuantumAlgorithmsBV_Training2.pdf)
@@ -89,5 +84,5 @@ partial-transpose moments](Talks/Vermersch_BadHonnef11072022.pdf), Seminar at IC
 - **2006-2010** École Polytechnique.
 
 ##  <a name="Codes"> </a> Codes
-- Python scripts to analyze randomized measurements performed on quantum devices: [Github Link](https://github.com/bvermersch/RandomMeas) 
 - The randomized measurement toolbox in Julia: [Github Link](https://github.com/bvermersch/RandomMeas.jl) 
+- Python scripts to analyze randomized measurements performed on quantum devices: [Github Link](https://github.com/bvermersch/RandomMeas) 
